@@ -1,0 +1,20 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="26" fill="#0e0820"/>
+  <defs>
+    <linearGradient id="fg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#B8A0FF"/>
+      <stop offset="50%" stop-color="#7C6BF0"/>
+      <stop offset="100%" stop-color="#5A4BD0"/>
+    </linearGradient>
+  </defs>
+  <!-- 8 directional chevron segments forming the O — Brand Mark 01 -->
+  <!-- Base path computed from: rInner=17, rOuter=49, rNotch=33, innerHalf=5°, outerHalf=17° -->
+  <path d="M 58.52 43.06 L 45.67 13.14 L 60.00 27.00 L 74.33 13.14 L 61.48 43.06 Z" fill="url(#fg)"/>
+  <path d="M 58.52 43.06 L 45.67 13.14 L 60.00 27.00 L 74.33 13.14 L 61.48 43.06 Z" fill="url(#fg)" transform="rotate(45, 60, 60)"/>
+  <path d="M 58.52 43.06 L 45.67 13.14 L 60.00 27.00 L 74.33 13.14 L 61.48 43.06 Z" fill="url(#fg)" transform="rotate(90, 60, 60)"/>
+  <path d="M 58.52 43.06 L 45.67 13.14 L 60.00 27.00 L 74.33 13.14 L 61.48 43.06 Z" fill="url(#fg)" transform="rotate(135, 60, 60)"/>
+  <path d="M 58.52 43.06 L 45.67 13.14 L 60.00 27.00 L 74.33 13.14 L 61.48 43.06 Z" fill="url(#fg)" transform="rotate(180, 60, 60)"/>
+  <path d="M 58.52 43.06 L 45.67 13.14 L 60.00 27.00 L 74.33 13.14 L 61.48 43.06 Z" fill="url(#fg)" transform="rotate(225, 60, 60)"/>
+  <path d="M 58.52 43.06 L 45.67 13.14 L 60.00 27.00 L 74.33 13.14 L 61.48 43.06 Z" fill="url(#fg)" transform="rotate(270, 60, 60)"/>
+  <path d="M 58.52 43.06 L 45.67 13.14 L 60.00 27.00 L 74.33 13.14 L 61.48 43.06 Z" fill="url(#fg)" transform="rotate(315, 60, 60)"/>
+</svg>
